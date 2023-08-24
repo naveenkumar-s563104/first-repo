@@ -1,5 +1,5 @@
-M Muskrat
+M Mole
 N Newt
-O Oranger
+O Ocelot
 P Panda
 T Tapir
